@@ -1,16 +1,23 @@
-## Hi there 👋
+# ¡Hola! Soy Lautaro 👋
 
-<!--
-**lautibillarroel10/lautibillarroel10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Sistemas de Información y desarrollador. Me apasiona crear soluciones eficientes, desde aplicaciones de escritorio hasta la automatización de flujos de trabajo. Combino mi perfil técnico con una visión emprendedora para resolver problemas reales.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías y Herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Desarrollo:** C#, WPF, .NET
+* **Bases de Datos:** SQL Server, MySql, Oracle, Postgres
+* **Automatización & Low-Code:** n8n, AppSheet, Google Sheets
+* **Control de Versiones:** Git
+
+### 🚀 Mis Proyectos Destacados
+
+* **Sistema de Gestión y Login (C# / WPF):** Aplicación de escritorio con integración a SQL Server, manejo de recursos y repositorios de usuarios.
+* **Automatización de Inventario y Notificaciones:** Ecosistema automatizado (usando n8n y AppSheet) que sincroniza ventas, actualiza stock en tiempo real y dispara alertas.
+
+### 🌱 Actualmente estoy...
+* Profundizando en el análisis de sistemas y la gestión organizacional.
+* Optimizando los procesos tecnológicos y la automatización para emprendimientos.
+
+### 📫 Cómo contactarme
+* **LinkedIn:** www.linkedin.com/in/lautaro-billarroel
+* **Email:** lautibillarroel10@gmail.com
