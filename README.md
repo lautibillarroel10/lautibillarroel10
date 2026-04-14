@@ -1,6 +1,6 @@
 # ¡Hola! Soy Lautaro 👋
 
-Soy estudiante de Sistemas de Información y desarrollador. Me apasiona crear soluciones eficientes, desde aplicaciones de escritorio hasta la automatización de flujos de trabajo. Combino mi perfil técnico con una visión emprendedora para resolver problemas reales.
+Soy estudiante de Analista Sistemas de Informaticos. Me apasiona crear soluciones eficientes, desde aplicaciones de escritorio hasta la automatización de flujos de trabajo. Combino mi perfil técnico con una visión emprendedora para resolver problemas reales.
 
 ### 🛠️ Tecnologías y Herramientas
 
@@ -17,6 +17,7 @@ Soy estudiante de Sistemas de Información y desarrollador. Me apasiona crear so
 ### 🌱 Actualmente estoy...
 * Profundizando en el análisis de sistemas y la gestión organizacional.
 * Optimizando los procesos tecnológicos y la automatización para emprendimientos.
+* Mejorando conceptos de Git aplicando comandos en consola.
 
 ### 📫 Cómo contactarme
 * **LinkedIn:** www.linkedin.com/in/lautaro-billarroel
