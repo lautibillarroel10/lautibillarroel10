@@ -1,13 +1,13 @@
 # ¡Hola! Soy Lautaro 👋
 
 <div align="center">
-  <h3>**Estudiante de Sistemas de Información | Desarrollador .NET**</h3>
+  <h3>Estudiante de Sistemas de Información | Desarrollador .NET</h3>
   <p>Basado en Córdoba, Argentina 🇦🇷</p>
 
-  <a href="www.linkedin.com/in/lautaro-billarroel">
+  <a href="https://www.linkedin.com/in/lautaro-billarroel">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mail:lautibillarroel10@gmail.com">
+  <a href="mailto:lautibillarroel10@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 Sobre Mí
 
-Soy estudiante de Analista de Sistemas Informaticos, apasionado por el desarrollo de soluciones técnicas eficientes. Mi enfoque principal está en el ecosistema **Microsoft .NET**. Tengo experiencia creando aplicaciones de escritorio y automatizando flujos de trabajo para mejorar procesos operativos.
+Soy estudiante de Analista Universitario en Sistemas Informáticos, apasionado por el desarrollo de soluciones técnicas eficientes. Mi enfoque principal está en el ecosistema **Microsoft .NET**. Tengo experiencia creando aplicaciones de escritorio y automatizando flujos de trabajo para mejorar procesos operativos.
 
 Combino mis conocimientos técnicos con una mentalidad orientada a resultados para resolver problemas reales.
 
@@ -27,10 +27,11 @@ Combino mis conocimientos técnicos con una mentalidad orientada a resultados pa
 ### Desarrollo & Lenguajes
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
+
 ### Bases de Datos
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
-<img src= "https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src= "https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue">
+<img src= "https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src= "https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 
 ### Automatización & Low-Code
 <img src="https://img.shields.io/badge/n8n-E21D62?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
@@ -43,14 +44,22 @@ Combino mis conocimientos técnicos con una mentalidad orientada a resultados pa
 
 ## 🚀 Proyectos Destacados
 
-### 🖥️ Sistema de Gestión y Login (C# / WPF)
-Una aplicación de escritorio robusta con integración a SQL Server.
+### 🏢 La Central Gestión - Sistema Administrativo
+Software de gestión centralizada diseñado para optimizar el control operativo y administrativo del negocio.
+* **Tech:** C#, .NET, SQL Server, Arquitectura en Capas.
+* **Key Features:** Gestión integral de inventario, facturación, módulo de reportes y administración de usuarios con distintos roles y permisos.
 
-* **Tech:** C#, WPF, .NET Framework, SQL Server, Entity Framework (si lo usás).
-* **Key Features:** Manejo de repositorios de usuarios, encriptación, interfaz limpia.
+### 📚 Sistema de Gestión para Librería
+Aplicación de escritorio enfocada en el control de inventario y ventas para librerías.
+* **Tech:** C#, .NET Framework, SQL Server.
+* **Key Features:** ABM (Altas, Bajas y Modificaciones) de libros y autores, registro de ventas, control de caja y diseño de base de datos relacional normalizada.
+
+### 🖥️ Sistema de Gestión y Login (C# / WPF)
+Una aplicación de escritorio robusta orientada a la seguridad y gestión de accesos.
+* **Tech:** C#, WPF, .NET Framework, SQL Server.
+* **Key Features:** Manejo de repositorios de usuarios, encriptación de credenciales, interfaz gráfica intuitiva y limpia.
 
 ### 🤖 Automatización de Inventario y Notificaciones
-Ecosistema automatizado que conecta ventas y actualiza stock.
-
+Ecosistema automatizado que conecta el registro de ventas con la actualización de stock en la nube.
 * **Tech:** n8n, AppSheet, Google Sheets, Automatización de Email.
-* **Key Features:** Sincronización en tiempo real, alertas de stock bajo, informes automáticos.
+* **Key Features:** Sincronización de datos en tiempo real, alertas automáticas por bajo stock y generación de informes operativos.
