@@ -46,7 +46,7 @@ Combino mis conocimientos técnicos con una mentalidad orientada a resultados pa
 
 ### 🏢 La Central Gestión - Sistema Administrativo
 Software de gestión centralizada diseñado para optimizar el control operativo y administrativo del negocio.
-* **Tech:** C#, .NET, SQL Server, Arquitectura en Capas.
+* **Tech:** C#, .NET, PostgreSql, Arquitectura en Capas.
 * **Key Features:** Gestión integral de inventario, facturación, módulo de reportes y administración de usuarios con distintos roles y permisos.
 
 ### 📚 Sistema de Gestión para Librería
@@ -54,12 +54,3 @@ Aplicación de escritorio enfocada en el control de inventario y ventas para lib
 * **Tech:** C#, .NET Framework, SQL Server.
 * **Key Features:** ABM (Altas, Bajas y Modificaciones) de libros y autores, registro de ventas, control de caja y diseño de base de datos relacional normalizada.
 
-### 🖥️ Sistema de Gestión y Login (C# / WPF)
-Una aplicación de escritorio robusta orientada a la seguridad y gestión de accesos.
-* **Tech:** C#, WPF, .NET Framework, SQL Server.
-* **Key Features:** Manejo de repositorios de usuarios, encriptación de credenciales, interfaz gráfica intuitiva y limpia.
-
-### 🤖 Automatización de Inventario y Notificaciones
-Ecosistema automatizado que conecta el registro de ventas con la actualización de stock en la nube.
-* **Tech:** n8n, AppSheet, Google Sheets, Automatización de Email.
-* **Key Features:** Sincronización de datos en tiempo real, alertas automáticas por bajo stock y generación de informes operativos.
